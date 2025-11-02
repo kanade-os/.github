@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png 2x">
-  <source media="(prefers-color-scheme: light)" srcset="logo.png 2x">
-  <img alt="kanade - an experimental operating system" src="logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kanade-os/.github/blob/main/logo-dark.png?raw=true 2x">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kanade-os/.github/blob/main/logo.png?raw=true 2x">
+  <img alt="kanade - an experimental operating system" src="https://github.com/kanade-os/.github/blob/main/logo.png?raw=true">
 </picture>
 
 ---
